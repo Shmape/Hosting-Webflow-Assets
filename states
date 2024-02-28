@@ -1,5 +1,6 @@
 {
   "states": [
+    {"name": "Select one...", "abbreviation": "null"},
     {"name": "Alabama", "abbreviation": "AL"},
     {"name": "Alaska", "abbreviation": "AK"},
     {"name": "Arizona", "abbreviation": "AZ"},
