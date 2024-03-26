@@ -1,6 +1,7 @@
 {
   "countries": [
     {"name": "Select one...", "code": "null"},
+		{"name": "United States", "code": "USA"},
     {"name": "Afghanistan", "code": "AFG"},
     {"name": "Albania", "code": "ALB"},
     {"name": "Algeria", "code": "DZA"},
