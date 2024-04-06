@@ -1,4 +1,14 @@
 {
-  "status": "green",
-  "message": "All Systems Working!"
+//status": "green",
+//message": "All Systems Working!"
+}
+
+{
+//"status": "orange",
+//"message": "Bugs under maintanince!"
+}
+
+{
+//status": "red",
+//message": "Features not working!"
 }
