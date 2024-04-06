@@ -4,10 +4,10 @@
   "_comment1": "The following sections are 'commented out' by not being active parts of the object structure.",
   "_comment2": {
     "status": "red",
-    "message": "Features not working!",
+    "message": "Features not working!"
   },
   "_comment3": {
     "status": "orange",
-    "message": "Bugs under maintenance!",
+    "message": "Bugs under maintenance!"
   }
 }
