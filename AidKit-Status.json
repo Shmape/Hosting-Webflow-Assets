@@ -1,5 +1,5 @@
 {
-  "currentState": "orange",
+  "currentState": "red",
   "states": {
     "green": {
       "message": "All Systems Working!"
