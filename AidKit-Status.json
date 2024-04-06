@@ -1,4 +1,4 @@
 {
-  "status": "red",
-  "message": "All systems go!"
+  "status": "yellow",
+  "message": "Undo & Redo not working!"
 }
