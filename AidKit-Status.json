@@ -1,13 +1,14 @@
 {
-   "status": "green",
-    "message": "All Systems Working!",
-  "_comment1": "The following sections are 'commented out' by not being active parts of the object structure.",
-  "_comment2": {
-    "status": "red",
-    "message": "Features not working!"
-  },
-  "_comment3": {
-    "status": "orange",
-    "message": "Bugs under maintenance!"
+  "currentState": "green",
+  "states": {
+    "green": {
+      "message": "All Systems Working!"
+    },
+    "red": {
+      "message": "Features not working!"
+    },
+    "orange": {
+      "message": "Bugs under maintenance!"
+    }
   }
 }
